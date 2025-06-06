@@ -1,0 +1,201 @@
+<!-- styles.css of 2026-may.bauska.org -->
+<!-- font-family:Bradley Hand, cursive, OCR A Std, monospace, Helvetica; -->
+body {
+  font-family:Helvetica;
+}
+table {
+  table-layout:fixed;
+  width:70%; 
+}
+.month-header {
+  background-image:url("https://2026-may.bauska.org/images/ufo-600x300.png");
+  background-position:center center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  height:300px;
+  text-align:right;
+}
+
+p {
+  color:#fff;
+  font-size:50%;
+  padding-right:50px;
+  text-align:right;
+  text-decoration:none;
+  vertical-align:bottom;
+}
+h1 {
+  color:#fff;  /* white */
+  font-size:200%;
+  font-weight:700;
+  letter-spacing:3px;
+  padding-right:50px;
+  padding-top:150px;
+  text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px #000;
+  vertical-align:top;
+}
+/* padding-bottom:150px; */
+.copyright-notice {
+  color:#fff;
+  font-size:50%;
+  padding-right:50px;
+  text-align:right;
+  text-decoration:none;
+  vertical-align:bottom;
+}
+
+.weekday-header {
+  background-color:#999;  /* dark gray */
+  border-color:#ddd;  /* very light gray */
+  border-style:solid;
+  letter-spacing:1px;
+  line-height:25px;
+}
+.week {
+  background-color:#ffff00;  /* eaeaea = very light gray */
+  height:75px;
+  margin:0;
+  text-align:left;
+  vertical-align:top;
+}
+.off-day {
+  background-color:#ddd;  /* very light gray */
+}
+
+ul {
+  font-size:75%;
+  list-style:none;
+  padding-left:20px;
+  padding-right:5px;
+}
+
+.event {
+  border-radius:5px;
+  color:#10171c;  /* very dark (mostly black) blue */
+  padding:5px;
+  margin:5px 0;
+}
+<!-- added 5-13-25 7:06pm -->
+.container {
+  background-color: white;
+  border: 2px solid #dcdcdc;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba
+  (0, 0, 0, 0.1);
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+}
+a {
+  color: royalblue;
+  text-decoration: none;
+  position: relative;
+  font-family: 'Arial', sans-serif;
+  transition: color 0.3s ease-in-out;
+}
+a::after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 2px;
+  background: crimson;
+  transition: width 0.3s;
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+}
+a:hover {
+  color: crimson;
+}
+a:hover::after {
+  width: 100%;
+}
+
+<!--  -->
+.may-day {
+  background-color:#e8e193;  /* very soft yellow */
+}
+.world-press-freedom {
+  background-color:#c2e7e7;  /* light grayish cyan */
+}
+.intl-firefighters {
+  background-color:#ffcdcd;  /* very pale red [pink tone] was ff3333 vivid red */
+}
+.starwars {
+  background-color:#ffdb9a;  /* pale orange */
+}
+.world-laughter {
+  background-color:#ff80bf;  /* very light pink was ff3399 vivid pink */
+}
+.cinco-de-mayo {
+  background-color:#cde6ff;  /* very pale blue */
+}
+.natl-nurses {
+  background-color:#ffafaf;  /* pale red, (pink tone) was ff000 bright red */
+}
+.natl-teachers {
+  background-color:#e6cdff;  /* very pale violet, was 9933ff vivid violet */
+}
+.natl-rememberance {
+  background-color:#ffd9b4;  /* pale orange */
+}
+.world-migratory-bird {
+  background-color:#ffe6b4;  /* pale orange */
+}
+.mothers-day {
+  background-color:#ff9999;  /* very light red */
+}
+.natl-chocolate-chip {
+  background-color:#9ab3ff;  /* pale blue */
+}
+.bike-to-work {
+  background-color:#98fb98;  /* very soft lime green */
+}
+.endangered-species {
+  background-color:#a6f4ff;  /* pale cyan */
+}
+.armed-forces {
+  background-color:#ffc0cb;  /* very pale red (pink) */
+}
+.natl-rescue-dog {
+  background-color:#ffff9a;  /* pale yellow */
+}
+.world-bee {
+  background-color:#d3d3d3;  /* light gray */
+}
+.cultural-diversity {
+  background-color:#e7ffe7;  /* very pale lime green */
+}
+.red-nose {
+  background-color:#ffb9ff;  /* pale magenta was cd00cd strong magenta */
+}
+.world-goth {
+  background-color:#ccff9a;  /* pale green */
+}
+.world-turtle {
+  background-color:#ffe34d;  /* light yellow */
+}
+.natl-brother {
+  background-color:#9aff9a;  /* pale lime green */
+}
+.natl-wine {
+  background-color:#ba9ce8;  /* very soft violet */
+}
+.memorial {
+  background-color:#00eeee;  /* pure cyan */
+}
+.natl-burger {
+  background-color:#ff7e6d;  /* very light red */
+}
+.world-otter {
+  background-color:#afffad;  /* pale lime green */
+}
+.intl-day-un-peace {
+  background-color:#e8e193;  /* very soft yellow */
+}
+.world-ms {
+    background-color:#e8e993;  /* very soft yellow */
+}
+.github {
+  background-color:#ece850;  /* soft yellow */
+}
