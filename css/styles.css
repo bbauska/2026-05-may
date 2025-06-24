@@ -108,10 +108,10 @@ a:hover {
   color: crimson;
 }
 a:hover::after {
-  width: 100%;
+  width: 88%;
 }
 
-<!--  -->
+<!-- World, National, & International Days -->
 .may-day {
   background-color:#e8e193;  /* very soft yellow */
 }
