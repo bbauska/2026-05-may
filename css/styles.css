@@ -31,13 +31,13 @@ h1 {
   letter-spacing:3px;
   padding-right:50px;
   padding-top:150px;
-  text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px #000;
+  text-shadow:-1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
   vertical-align:top;
 }
 /* padding-bottom:150px; */
 .copyright-notice {
   color:#fff;
-  font-size:50%;
+  font-size:65%;
   padding-right:50px;
   text-align:right;
   text-decoration:none;
@@ -108,12 +108,15 @@ a:hover {
   color: crimson;
 }
 a:hover::after {
-  width: 88%;
+  width: 85%;
 }
 
 <!-- World, National, & International Days -->
-.may-day {
+.mayDay {
   background-color:#e8e193;  /* very soft yellow */
+}
+.may-day {
+  background-color:#ffdb9a;  /* pale orange */
 }
 .world-press-freedom {
   background-color:#c2e7e7;  /* light grayish cyan */
