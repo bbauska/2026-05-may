@@ -118,38 +118,41 @@ a:hover::after {
 .may-day {
   background-color:#ffdb9a;  /* pale orange */
 }
-.world-press-freedom {
-  background-color:#c2e7e7;  /* light grayish cyan */
-}
-.intl-firefighters {
+.free-comic-book {
   background-color:#ffcdcd;  /* very pale red [pink tone] was ff3333 vivid red */
 }
-.starwars {
+.kentucky-derby {
   background-color:#ffdb9a;  /* pale orange */
 }
 .world-laughter {
   background-color:#ff80bf;  /* very light pink was ff3399 vivid pink */
 }
+.world-press-freedom {
+  background-color:#c2e7e7;  /* light grayish cyan */
+}
+.intl-firefighters {
+  background-color:#afffad;  /* pale lime green */
+}
+.starwars {
+  background-color:#e8e193;  /* very soft yellow */
+}
 .cinco-de-mayo {
   background-color:#cde6ff;  /* very pale blue */
+}
+.world-asthma {
+  background-color:#ffd9b4;  /* pale orange */
 }
 .natl-nurses {
   background-color:#ffafaf;  /* pale red, (pink tone) was ff000 bright red */
 }
-.natl-teachers {
-  background-color:#e6cdff;  /* very pale violet, was 9933ff vivid violet */
-}
 .natl-rememberance {
   background-color:#ffd9b4;  /* pale orange */
-}
-.world-migratory-bird {
-  background-color:#ffe6b4;  /* pale orange */
 }
 .mothers-day {
   background-color:#ff9999;  /* very light red */
 }
-.natl-chocolate-chip {
-  background-color:#9ab3ff;  /* pale blue */
+.eat-what-you-want {
+  background-color:#ffe6b4;  /* pale orange */
 }
 .bike-to-work {
   background-color:#98fb98;  /* very soft lime green */
@@ -157,6 +160,9 @@ a:hover::after {
 .endangered-species {
   background-color:#a6f4ff;  /* pale cyan */
 }
+.natl-chocolate-chip {
+  background-color:#ffedcd  /* very pale orange */
+
 .armed-forces {
   background-color:#ffc0cb;  /* very pale red (pink) */
 }
@@ -169,14 +175,11 @@ a:hover::after {
 .cultural-diversity {
   background-color:#e7ffe7;  /* very pale lime green */
 }
-.red-nose {
+.world-goth {
   background-color:#ffb9ff;  /* pale magenta was cd00cd strong magenta */
 }
-.world-goth {
-  background-color:#ccff9a;  /* pale green */
-}
 .world-turtle {
-  background-color:#ffe34d;  /* light yellow */
+  background-color:#ccff9a;  /* pale green */
 }
 .natl-brother {
   background-color:#9aff9a;  /* pale lime green */
@@ -199,6 +202,6 @@ a:hover::after {
 .world-ms {
     background-color:#e8e993;  /* very soft yellow */
 }
-.github {
+.world-no-tobacco {
   background-color:#ece850;  /* soft yellow */
 }
