@@ -1,5 +1,6 @@
-<!-- styles.css of 2026-may.bauska.org -->
-<!-- font-family:Bradley Hand, cursive, OCR A Std, monospace, Helvetica; -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ css/styles.css of 2026-05-may making 2026-may.bauska.org ~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 body {
   font-family:Helvetica;
 }
@@ -113,16 +114,16 @@ a:hover::after {
 
 <!-- World, National, & International Days -->
 .mayDay {
-  background-color:#e8e193;  /* very soft yellow */
+  background-color:#ffdb9a;  /* very soft yellow */
 }
 .may-day {
   background-color:#ffdb9a;  /* pale orange */
 }
 .free-comic-book {
-  background-color:#ffcdcd;  /* very pale red [pink tone] was ff3333 vivid red */
+  background-color:#cde6ff;  /* very pale blue */
 }
 .kentucky-derby {
-  background-color:#ffdb9a;  /* pale orange */
+  background-color:#9affdb;  /* pale cyan - lime green */
 }
 .world-laughter {
   background-color:#ff80bf;  /* very light pink was ff3399 vivid pink */
@@ -143,7 +144,7 @@ a:hover::after {
   background-color:#ffd9b4;  /* pale orange */
 }
 .natl-nurses {
-  background-color:#ffafaf;  /* pale red, (pink tone) was ff000 bright red */
+  background-color:#b4ffd9;  /* pale cyan - lime green */
 }
 .natl-rememberance {
   background-color:#ffd9b4;  /* pale orange */
@@ -152,7 +153,7 @@ a:hover::after {
   background-color:#ff9999;  /* very light red */
 }
 .eat-what-you-want {
-  background-color:#ffe6b4;  /* pale orange */
+  background-color:#ceffff;  /* very pale cyan */
 }
 .bike-to-work {
   background-color:#98fb98;  /* very soft lime green */
@@ -161,13 +162,13 @@ a:hover::after {
   background-color:#a6f4ff;  /* pale cyan */
 }
 .natl-chocolate-chip {
-  background-color:#ffedcd  /* very pale orange */
+  background-color:#ffedcd;  /* very pale orange */
 
 .armed-forces {
   background-color:#ffc0cb;  /* very pale red (pink) */
 }
 .natl-rescue-dog {
-  background-color:#ffff9a;  /* pale yellow */
+  background-color:#9affff;  /* pale cyan */
 }
 .world-bee {
   background-color:#d3d3d3;  /* light gray */
@@ -185,7 +186,7 @@ a:hover::after {
   background-color:#9aff9a;  /* pale lime green */
 }
 .natl-wine {
-  background-color:#ba9ce8;  /* very soft violet */
+  background-color:#e5daf6;  /* light grayish violet */
 }
 .memorial {
   background-color:#00eeee;  /* pure cyan */
@@ -197,11 +198,11 @@ a:hover::after {
   background-color:#afffad;  /* pale lime green */
 }
 .intl-day-un-peace {
-  background-color:#e8e193;  /* very soft yellow */
+  background-color:#f6e5d3;  /* light grayish orange */
 }
 .world-ms {
-    background-color:#e8e993;  /* very soft yellow */
+    background-color:#d3e4f6;  /* light grayish blue */
 }
 .world-no-tobacco {
-  background-color:#ece850;  /* soft yellow */
+  background-color:#c7f395;  /* very soft green */
 }
