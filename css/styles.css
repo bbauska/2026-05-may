@@ -1,6 +1,4 @@
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~ css/styles.css of 2026-05-may making 2026-may.bauska.org ~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+/~ css/styles.css of 2026-05-may making 2026-may.bauska.org */
 body {
   font-family:Helvetica;
 }
@@ -76,7 +74,6 @@ ul {
   padding:5px;
   margin:5px 0;
 }
-<!-- added 5-13-25 7:06pm -->
 .container {
   background-color: white;
   border: 2px solid #dcdcdc;
@@ -112,7 +109,7 @@ a:hover::after {
   width: 88%;
 }
 
-<!-- World, National, & International Days -->
+/* World, National, & International Days */
 .mayDay {
   background-color:#ffdb9a;  /* very soft yellow */
 }
